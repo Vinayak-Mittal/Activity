@@ -1,0 +1,76 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "Go for a 30-minute walk",
+      "category": "Physical",
+      "mood": ["Stressed", "Energetic"],
+      "duration": 30,
+      "emoji": "🚶",
+      "intensity": "Medium"
+    },
+    {
+      "id": 2,
+      "name": "Read a chapter of a book",
+      "category": "Indoor",
+      "mood": ["Bored", "Stressed"],
+      "duration": 20,
+      "emoji": "📚",
+      "intensity": "Low"
+    },
+    {
+      "id": 3,
+      "name": "Call a friend",
+      "category": "Social",
+      "mood": ["Bored", "Stressed"],
+      "duration": 30,
+      "emoji": "📱",
+      "intensity": "Low"
+    },
+    {
+      "id": 4,
+      "name": "Try a new recipe",
+      "category": "Creative",
+      "mood": ["Bored", "Energetic"],
+      "duration": 60,
+      "emoji": "🍳",
+      "intensity": "Medium"
+    },
+    {
+      "id": 5,
+      "name": "Meditate",
+      "category": "Indoor",
+      "mood": ["Stressed"],
+      "duration": 10,
+      "emoji": "🧘",
+      "intensity": "Low"
+    },
+    {
+      "id": 6,
+      "name": "Go for a bike ride",
+      "category": "Physical",
+      "mood": ["Energetic"],
+      "duration": 45,
+      "emoji": "🚴",
+      "intensity": "High"
+    },
+    {
+      "id": 7,
+      "name": "Host a game night",
+      "category": "Social",
+      "mood": ["Bored", "Energetic"],
+      "duration": 120,
+      "emoji": "🎮",
+      "intensity": "Medium"
+    },
+    {
+      "id": 8,
+      "name": "Paint or draw",
+      "category": "Creative",
+      "mood": ["Bored", "Stressed"],
+      "duration": 60,
+      "emoji": "🎨",
+      "intensity": "Low"
+    }
+  ]
+}

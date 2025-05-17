@@ -1,0 +1,172 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "Go for a 30-minute walk",
+      "category": "Physical",
+      "emoji": "🚶"
+    },
+    {
+      "id": 2,
+      "name": "Read a chapter of a book",
+      "category": "Indoor",
+      "emoji": "📚"
+    },
+    {
+      "id": 3,
+      "name": "Call a friend you haven't spoken to in a while",
+      "category": "Social",
+      "emoji": "📱"
+    },
+    {
+      "id": 4,
+      "name": "Try a new recipe",
+      "category": "Creative",
+      "emoji": "🍳"
+    },
+    {
+      "id": 5,
+      "name": "Meditate for 10 minutes",
+      "category": "Indoor",
+      "emoji": "🧘"
+    },
+    {
+      "id": 6,
+      "name": "Go for a bike ride",
+      "category": "Physical",
+      "emoji": "🚴"
+    },
+    {
+      "id": 7,
+      "name": "Host a game night",
+      "category": "Social",
+      "emoji": "🎮"
+    },
+    {
+      "id": 8,
+      "name": "Draw or paint something",
+      "category": "Creative",
+      "emoji": "🎨"
+    },
+    {
+      "id": 9,
+      "name": "Practice a new language for 20 minutes",
+      "category": "Indoor",
+      "emoji": "🗣️"
+    },
+    {
+      "id": 10,
+      "name": "Go swimming",
+      "category": "Physical",
+      "emoji": "🏊"
+    },
+    {
+      "id": 11,
+      "name": "Volunteer at a local charity",
+      "category": "Social",
+      "emoji": "❤️"
+    },
+    {
+      "id": 12,
+      "name": "Write a short story",
+      "category": "Creative",
+      "emoji": "✍️"
+    },
+    {
+      "id": 13,
+      "name": "Do a puzzle",
+      "category": "Indoor",
+      "emoji": "🧩"
+    },
+    {
+      "id": 14,
+      "name": "Try yoga",
+      "category": "Physical",
+      "emoji": "🧘‍♀️"
+    },
+    {
+      "id": 15,
+      "name": "Host a dinner party",
+      "category": "Social",
+      "emoji": "🍽️"
+    },
+    {
+      "id": 16,
+      "name": "Make a DIY craft",
+      "category": "Creative",
+      "emoji": "🧶"
+    },
+    {
+      "id": 17,
+      "name": "Watch a documentary",
+      "category": "Indoor",
+      "emoji": "🎬"
+    },
+    {
+      "id": 18,
+      "name": "Go hiking",
+      "category": "Physical",
+      "emoji": "🥾"
+    },
+    {
+      "id": 19,
+      "name": "Attend a local event",
+      "category": "Social",
+      "emoji": "🎪"
+    },
+    {
+      "id": 20,
+      "name": "Learn to play a musical instrument",
+      "category": "Creative",
+      "emoji": "🎸"
+    },
+    {
+      "id": 21,
+      "name": "Organize a cluttered space",
+      "category": "Indoor",
+      "emoji": "🧹"
+    },
+    {
+      "id": 22,
+      "name": "Try a new workout routine",
+      "category": "Physical",
+      "emoji": "💪"
+    },
+    {
+      "id": 23,
+      "name": "Join a club or meetup",
+      "category": "Social",
+      "emoji": "👥"
+    },
+    {
+      "id": 24,
+      "name": "Take photographs",
+      "category": "Creative",
+      "emoji": "📸"
+    },
+    {
+      "id": 25,
+      "name": "Learn a new recipe",
+      "category": "Indoor",
+      "emoji": "📝"
+    },
+    {
+      "id": 26,
+      "name": "Go dancing",
+      "category": "Physical",
+      "emoji": "💃"
+    },
+    {
+      "id": 27,
+      "name": "Have a picnic",
+      "category": "Social",
+      "emoji": "🧺"
+    },
+    {
+      "id": 28,
+      "name": "Write a poem",
+      "category": "Creative",
+      "emoji": "📜"
+    }
+  ]
+}
