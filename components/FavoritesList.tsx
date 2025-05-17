@@ -24,7 +24,7 @@ export function FavoritesList({
         <p className="text-gray-600 dark:text-gray-400 mb-6">
           When you find activities you love, save them here for easy access!
         </p>
-        <Button href="/" variant="gradient" asChild>
+        <Button variant="gradient" asChild>
           <a href="/">Find Activities</a>
         </Button>
       </div>
